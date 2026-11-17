@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="274" viewBox="0 0 760 274" role="img" aria-labelledby="title desc">
+<title id="title">DRAGON BUILD Entwicklerterminal</title><desc id="desc">dragon@dev:~$ ./initialize [+] Initializing DRAGON BUILD... [+] Loading development modules... [+] Connecting projects... [+] AI-assisted development ready. [✓] Welcome to 0x.D.R.A.G.O.N.dev</desc>
+<style>
+text{font-family:monospace}
+@keyframes blink{50%{opacity:0}}
+.cursor{display:none}
+@media (prefers-reduced-motion:no-preference){
+.r0{animation:row0 12062ms steps(26,end) infinite}
+.c0{display:inline;animation:track0 12062ms steps(26,end) infinite}
+.c0 rect{animation:blink 920ms step-end infinite}
+@keyframes row0{0%,3.73072%{width:0px}12.99950%,100%{width:313.03999999999996px}}
+@keyframes track0{0%,3.72243%{visibility:hidden;transform:translateX(0)}3.73072%{visibility:visible;transform:translateX(0)}12.99950%,14.15188%{visibility:visible;transform:translateX(313.03999999999996px)}14.16017% ,100%{visibility:hidden;transform:translateX(313.03999999999996px)}}
+.r1{animation:row1 12062ms steps(32,end) infinite}
+.c1{display:inline;animation:track1 12062ms steps(32,end) infinite}
+.c1 rect{animation:blink 920ms step-end infinite}
+@keyframes row1{0%,14.16017%{width:0px}25.21141%,100%{width:385.28px}}
+@keyframes track1{0%,14.15188%{visibility:hidden;transform:translateX(0)}14.16017%{visibility:visible;transform:translateX(0)}25.21141%,26.36379%{visibility:visible;transform:translateX(385.28px)}26.37208% ,100%{visibility:hidden;transform:translateX(385.28px)}}
+.r2{animation:row2 12062ms steps(34,end) infinite}
+.c2{display:inline;animation:track2 12062ms steps(34,end) infinite}
+.c2 rect{animation:blink 920ms step-end infinite}
+@keyframes row2{0%,26.37208%{width:0px}38.49279%,100%{width:409.35999999999996px}}
+@keyframes track2{0%,26.36379%{visibility:hidden;transform:translateX(0)}26.37208%{visibility:visible;transform:translateX(0)}38.49279%,39.64517%{visibility:visible;transform:translateX(409.35999999999996px)}39.65346% ,100%{visibility:hidden;transform:translateX(409.35999999999996px)}}
+.r3{animation:row3 12062ms steps(26,end) infinite}
+.c3{display:inline;animation:track3 12062ms steps(26,end) infinite}
+.c3 rect{animation:blink 920ms step-end infinite}
+@keyframes row3{0%,39.65346%{width:0px}48.92224%,100%{width:313.03999999999996px}}
+@keyframes track3{0%,39.64517%{visibility:hidden;transform:translateX(0)}39.65346%{visibility:visible;transform:translateX(0)}48.92224%,50.07461%{visibility:visible;transform:translateX(313.03999999999996px)}50.08290% ,100%{visibility:hidden;transform:translateX(313.03999999999996px)}}
+.r4{animation:row4 12062ms steps(34,end) infinite}
+.c4{display:inline;animation:track4 12062ms steps(34,end) infinite}
+.c4 rect{animation:blink 920ms step-end infinite}
+@keyframes row4{0%,50.08290%{width:0px}62.20361%,100%{width:409.35999999999996px}}
+@keyframes track4{0%,50.07461%{visibility:hidden;transform:translateX(0)}50.08290%{visibility:visible;transform:translateX(0)}62.20361%,63.35599%{visibility:visible;transform:translateX(409.35999999999996px)}63.36428% ,100%{visibility:hidden;transform:translateX(409.35999999999996px)}}
+.r5{animation:row5 12062ms steps(33,end) infinite}
+.c5{display:inline;animation:track5 12062ms steps(33,end) infinite}
+.c5 rect{animation:blink 920ms step-end infinite}
+@keyframes row5{0%,63.36428%{width:0px}75.12850%,100%{width:397.32px}}
+@keyframes track5{0%,63.35599%{visibility:hidden;transform:translateX(0)}63.36428%{visibility:visible;transform:translateX(0)}75.12850%,99.99171%{visibility:visible;transform:translateX(397.32px)}100.00000% ,100%{visibility:hidden;transform:translateX(397.32px)}}
+}
+</style>
+<rect x=".5" y=".5" width="759" height="273" rx="14" fill="#0D1117" stroke="#334357"/>
+<path d="M1 46h758" stroke="#334357"/>
+<circle cx="24" cy="24" r="4" fill="#FF304F"/><circle cx="39" cy="24" r="4" fill="#00BFFF"/>
+<text x="57" y="29" fill="#9CADBF" font-size="14" letter-spacing="1">DRAGON BUILD / TERMINAL</text>
+<clipPath id="line0"><rect class="r0" x="25" y="69" width="317.03999999999996" height="28"/></clipPath>
+<text x="25" y="90" xml:space="preserve" font-size="20" textLength="313.03999999999996" lengthAdjust="spacingAndGlyphs" clip-path="url(#line0)" fill="#E6EDF3"><tspan fill="#FF304F">dragon@dev:~$</tspan> ./initialize</text>
+<g class="cursor c0"><rect x="26" y="74" width="8" height="18" rx="1" fill="#FF304F"/></g>
+<clipPath id="line1"><rect class="r1" x="25" y="100" width="389.28" height="28"/></clipPath>
+<text x="25" y="121" xml:space="preserve" font-size="20" textLength="385.28" lengthAdjust="spacingAndGlyphs" clip-path="url(#line1)" fill="#E6EDF3"><tspan fill="#00BFFF">[+]</tspan> Initializing DRAGON BUILD...</text>
+<g class="cursor c1"><rect x="26" y="105" width="8" height="18" rx="1" fill="#00BFFF"/></g>
+<clipPath id="line2"><rect class="r2" x="25" y="131" width="413.35999999999996" height="28"/></clipPath>
+<text x="25" y="152" xml:space="preserve" font-size="20" textLength="409.35999999999996" lengthAdjust="spacingAndGlyphs" clip-path="url(#line2)" fill="#E6EDF3"><tspan fill="#00BFFF">[+]</tspan> Loading development modules...</text>
+<g class="cursor c2"><rect x="26" y="136" width="8" height="18" rx="1" fill="#00BFFF"/></g>
+<clipPath id="line3"><rect class="r3" x="25" y="162" width="317.03999999999996" height="28"/></clipPath>
+<text x="25" y="183" xml:space="preserve" font-size="20" textLength="313.03999999999996" lengthAdjust="spacingAndGlyphs" clip-path="url(#line3)" fill="#E6EDF3"><tspan fill="#00BFFF">[+]</tspan> Connecting projects...</text>
+<g class="cursor c3"><rect x="26" y="167" width="8" height="18" rx="1" fill="#00BFFF"/></g>
+<clipPath id="line4"><rect class="r4" x="25" y="193" width="413.35999999999996" height="28"/></clipPath>
+<text x="25" y="214" xml:space="preserve" font-size="20" textLength="409.35999999999996" lengthAdjust="spacingAndGlyphs" clip-path="url(#line4)" fill="#E6EDF3"><tspan fill="#00BFFF">[+]</tspan> AI-assisted development ready.</text>
+<g class="cursor c4"><rect x="26" y="198" width="8" height="18" rx="1" fill="#00BFFF"/></g>
+<clipPath id="line5"><rect class="r5" x="25" y="224" width="401.32" height="28"/></clipPath>
+<text x="25" y="245" xml:space="preserve" font-size="20" textLength="397.32" lengthAdjust="spacingAndGlyphs" clip-path="url(#line5)" fill="#E6EDF3"><tspan fill="#00BFFF">[✓]</tspan> Welcome to 0x.D.R.A.G.O.N.dev</text>
+<g class="cursor c5"><rect x="26" y="229" width="8" height="18" rx="1" fill="#00BFFF"/></g>
+</svg>
