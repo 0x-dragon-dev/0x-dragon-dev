@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="184" viewBox="0 0 760 184" role="img" aria-labelledby="title desc">
+<title id="title">DRAGON BUILD Statuspanel</title><desc id="desc">Schwerpunkte: Codex Coding, Android-App-Entwicklung und Open-Source-Projekte.</desc>
+<rect x=".5" y=".5" width="759" height="183" rx="14" fill="#101827" stroke="#334357"/>
+<path d="M29 25h14l8 13-8 13H29l-8-13z" fill="none" stroke="#FF304F" stroke-width="2"/><circle cx="36" cy="38" r="4" fill="#00BFFF"/>
+<g font-family="monospace"><text x="65" y="44" font-size="23" font-weight="bold" fill="#E6EDF3">DRAGON BUILD</text>
+<text x="733" y="42" text-anchor="end" font-size="13" fill="#00BFFF">ENTWICKLUNGSPROFIL</text>
+<rect x="24" y="67" width="232" height="92" rx="8" fill="#0D1117" stroke="#253449"/><text x="38" y="92" font-size="13" fill="#8EA3B9">KI-ENTWICKLUNG</text><text x="38" y="116" font-size="18" fill="#E6EDF3">OpenAI Codex</text><rect x="264" y="67" width="232" height="92" rx="8" fill="#0D1117" stroke="#253449"/><text x="278" y="92" font-size="13" fill="#8EA3B9">PLATTFORMEN</text><text x="278" y="116" font-size="18" fill="#E6EDF3">Android / Windows</text><rect x="504" y="67" width="232" height="92" rx="8" fill="#0D1117" stroke="#253449"/><text x="518" y="92" font-size="13" fill="#8EA3B9">SCHWERPUNKT</text><text x="518" y="112" font-size="15" fill="#E6EDF3"><tspan x="518">Codex Coding</tspan><tspan x="518" dy="18">Android-App-Entwicklung</tspan><tspan x="518" dy="18">Open-Source-Projekte</tspan></text>
+</g></svg>
